@@ -6,9 +6,11 @@ This project consists of three modules that utilize the **Gemini-1.5-Flash** mod
 2. **Object Finder**: Finds the location of a specific object in an image.
 3. **Object Tracker**: Tracks an object in a video and timestamps when the object appears.
 
+To begin, clone the repository to your local machine:
 
-
-## Prerequisites
+```bash
+git clone https://github.com/your-repo/image-describer-object-finder-tracker.git
+cd image-describer-object-finder-tracker
 
 Before running the app, make sure you have the required Python libraries:
 

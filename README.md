@@ -10,8 +10,7 @@ To begin, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-repo/image-describer-object-finder-tracker.git
-cd image-describer-object-finder-tracker
-
+```
 Before running the app, make sure you have the required Python libraries:
 
 ```bash

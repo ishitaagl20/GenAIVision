@@ -9,7 +9,7 @@ This project consists of three modules that utilize the **Gemini-1.5-Flash** mod
 To begin, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repo/image-describer-object-finder-tracker.git
+git clone https://github.com/your-repo/genaivision.git
 ```
 Before running the app, make sure you have the required Python libraries:
 
